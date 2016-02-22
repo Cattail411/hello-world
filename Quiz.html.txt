@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+	<head>
+		<title>C.S. Lewis Report</title>
+	</head>
+	
+	<body>
+	
+		<h2 align="center">Lily Peterson</h2>
+	
+		<h3 align="center">Term Paper</h3>
+		
+		<h4 align="center">C.S. Lewis</h4>
+		
+		<img src="images/CSLewis.jpg" align="left">
+		<caption align="right">"We all want progress, but if you're on the wrong road, progress means doing an about-turn and walking back to the right road; in that case, the man who turns back soonest is the most progressive." -C.S. Lewis</caption>
+		
+		
+		
+		<h3 align="center">Outline</h3>
+		
+			<ul>
+			<li>Life Story</li>
+				<ul>
+				<li>"My Irish Life"</li>
+				<li>World War I</li>
+				<li>Jane Moore</li>
+				<li>Conversion to Christianity</li>
+				<li>Joy Gresham</li>
+				<li>Illness and Death</li>
+				</ul>
+			<li>Career</li>
+				<ul>
+				<li>The Scholar</li>
+				<li>The Novelist</li>
+				<li>The Christian Apologist</li>
+				</ul>
+			<li>Legacy</li>
+			<li>Bibliography</li>
+			<li>Secondary Works</li>
+			</ul>
+			
+			<table border="1"
+					rules="1"
+					align="center"
+					cellspacing="10"
+					cellpadding="10">
+				<tr align="center">
+					<td>Book</td>
+					<td>Author</td>
+					<td>Publisher</td>
+				</tr>
+				<tr>
+					<td>Pilgrim's Progress</td>
+					<td>C.S. Lewis</td>
+					<td>Chronicle Books</td>
+				</tr>
+				<tr>
+					<td>Space Trilogy</td>
+					<td>C.S. Lewis</td>
+					<td>Chronicle Books</td>
+				</tr>
+				<tr>
+					<td>The Chronicles of Narnia</td>
+					<td>C.S. Lewis</td>
+					<td>Chronicle Books</td>
+				</tr>
+			</table>
+			
+			<img src="images/Narnia.jpg"
+				width="256"
+				height="195"
+				align="center">
+			<a href="lilycattail@gmail.com">Email address</a>
+	</body>
+-<html>
