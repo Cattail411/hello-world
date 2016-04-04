@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+	<head>
+	<title>Individual Information</title>
+	</head>
+	
+	<body>
+		<center><h2>Individual Information</center></h2>
+		<br>
+		<form name="Lily's Form"
+				action="http://philscis.com/cgi-bin/quick.cgi"
+				method="post">
+				<br>
+				First Name:<input name="firstName" size="10">
+				Last Name:<input type="text" name="lastName" size="10" maxlength="15">
+				Birth date:<input type="text" name="birthDate" size="22">
+				Sex:<input type="radio" name="gender" value="male">Male<input type="radio" name="gender" value="female">Female
+				Income:
+					<input type="radio" name="income" value="first">$0-$20K
+					<input type="radio" name="income" value="second">$20K-$40K
+					<input type="radio" name="income" value="third">$40K-$60K
+					<input type="radio" name="income" value="fourth">$60K-$100K
+					<input type="radio" name="income" value="fifth"> > $100K
+				Where you gather news:
+					<input type="checkbox" name="media" value="books">Books
+					<input type="checkbox" name="media" value="newspaper">Newspaper
+					<input type="checkbox" name="media" value="radio">Radio
+					<input type="checkbox" name="media" value="tv">TV
+					<input type="checkbox" name="media" value="magazines">Magazines
+				Favorite Foods:
+					<input type="checkbox" name="food" value="chinese">Chinese
+					<input type="checkbox" name="food" value="french">French
+					<input type="checkbox" name="food" value="italian">Italian
+				<br>
+				<input type="submit" name="submitbutton" value="Submit"><input type="reset" name="resetbutton" value="Clear">
+		</form>
+		<a href="https://github.com/Cattail411/hello-world">
+	</body>
+</html>
+		
