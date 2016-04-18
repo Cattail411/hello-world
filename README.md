@@ -11,4 +11,12 @@ Armstrong is my little brother, though lately he has grown taller than me. He is
 When I'm not coding at school or working at Wendy's, I'm either reading, playing videogames, watching TV or movies with my family, singing, or playing my violin. Over the years, I have learned to play certain pieces of music from my favorite shows just by listening to them. No sheet music required! 
 
 When it comes to stories, I have a wide variety of favorite genres. I love classic reads like "Pride and Prejudice" as well as the works of Shakespeare. I also love a good mystery, and no one can provide a good mystery better than Sherlock Holmes. Science-fiction and fantasy is my absolute favorite. I've read every "Harry Potter" book and love "Star Wars" and "Star Trek." Lately, I have become a fan of the BBC show "Doctor Who." To show how much of a "Whovian" I am, I have provided a link to a webpage that I have created that lists all of the Doctor's companions from the beginning and who they are in the show.
+I have also created other pages. To view the pages, highlight a link, right-click and go to "Open URL" and it will take you to the webpage.
+
 file:///Users/lilypeterson/Documents/list.html
+file:///Users/lilypeterson/Documents/iframes.html
+file:///Users/lilypeterson/Documents/picture.html
+file:///Users/lilypeterson/Documents/resume.html
+file:///Users/lilypeterson/Documents/password.html
+file:///Users/lilypeterson/Documents/infoform.html
+file:///Users/lilypeterson/Documents/infoformJavascript.html
