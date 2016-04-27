@@ -14,9 +14,17 @@ When it comes to stories, I have a wide variety of favorite genres. I love class
 I have also created other pages. To view the pages, highlight a link, right-click and go to "Open URL" and it will take you to the webpage.
 
 file:///Users/lilypeterson/Documents/list.html
+
 file:///Users/lilypeterson/Documents/iframes.html
+
 file:///Users/lilypeterson/Documents/picture.html
+
 file:///Users/lilypeterson/Documents/resume.html
+
 file:///Users/lilypeterson/Documents/password.html
+
 file:///Users/lilypeterson/Documents/infoform.html
+
 file:///Users/lilypeterson/Documents/infoformJavascript.html
+
+file:///Users/lilypeterson/Documents/css1.html
